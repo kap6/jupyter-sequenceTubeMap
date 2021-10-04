@@ -1,3 +1,32 @@
+Metadata-Version: 2.1
+Name: katana-seqtubes
+Version: 0.1.0.dev0
+Summary: A Custom Jupyter Widget Library
+Home-page: https://github.com//katana_seqtubes
+Author: kamesh peri
+Author-email: kamesh.peri@katanagraph.com
+License: BSD
+Keywords: Jupyter,Widgets,IPython
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Framework :: Jupyter
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: examples
+Provides-Extra: docs
+License-File: LICENSE.txt
+
 
 # katana_seqtubes
 
@@ -70,3 +99,5 @@ After a change wait for the build to finish and then refresh your browser and th
 
 #### Python:
 If you make a change to the python code then you will need to restart the notebook kernel to have it take effect.
+
+
